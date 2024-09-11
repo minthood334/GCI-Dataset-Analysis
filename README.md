@@ -3,4 +3,4 @@
 
 # 출처
  original_data: https://www.kaggle.com/datasets/weforum/global-competitiveness
- ( Kaggle, The Global Competitiveness Index dataset )
+ \n( Kaggle, The Global Competitiveness Index dataset )
